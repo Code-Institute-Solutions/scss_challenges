@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAII,YAAiB;EACb,gBAAgB,EALf,IAAI;;AAIT,YAAiB;EACb,gBAAgB,EALT,IAAI;;AAIf,YAAiB;EACb,gBAAgB,EALH,IAAI;;AAIrB,YAAiB;EACb,gBAAgB,EALG,IAAI",
+"sources": ["solution2.scss"],
+"names": [],
+"file": "solution2.css"
+}
