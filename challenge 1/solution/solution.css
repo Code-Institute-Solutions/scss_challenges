@@ -1,0 +1,13 @@
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: #bada55; }
+
+/* 
+
+Compile scss with 
+
+sass --watch yourfile.scss 
+*/
+
+/*# sourceMappingURL=solution.css.map */
