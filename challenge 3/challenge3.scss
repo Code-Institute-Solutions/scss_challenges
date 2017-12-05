@@ -1,0 +1,22 @@
+.container {
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 1280px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.wrapper {
+    border: 1px solid #000;
+    float: left;
+    position: relative;
+    border-radius: 10px;
+}
+
+.item {
+    font-size: 14px;
+    border-radius: 10px;
+    font-family: "Sans Pro", sans-serif;
+    font-weight: 700;
+    border: 1px solid #000;
+}

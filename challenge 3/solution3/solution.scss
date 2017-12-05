@@ -1,0 +1,24 @@
+%border {
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.container {
+    width: 1280px;
+    background-color: #fff;
+    margin: 0 auto;
+    @extend %border;
+}
+
+.wrapper {
+    float: left;
+    position: relative;
+    @extend %border;
+}
+
+.item {
+    font-size: 14px;
+    font-family: "Sans Pro", sans-serif;
+    font-weight: 700;
+    @extend %border;
+}
